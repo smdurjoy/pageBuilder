@@ -1,0 +1,33 @@
+<script setup lang="ts">
+import Header from "~/components/ar/about-us-3/header.vue";
+import Footer from "~/components/ar/home/dark/footer.vue";
+import LegalSupport from "~/components/ar/landing-page-1/legal-support.vue";
+import Services from "~/components/ar/our-services-5/services.vue";
+import type {
+  LandingPage1Response,
+  LegalSupportType,
+} from "~/types/landing-page-1";
+import type { OurServicesResponse, ServicesType } from "~/types/our-services";
+
+const { data } = await useFetch<OurServicesResponse>("/api/our-services/en");
+const { data: landingPage1Data } = await useFetch<LandingPage1Response>(
+  "/api/landing-page-1/en",
+);
+</script>
+
+<template>
+  <div class="bg-white w-full min-h-screen" dir="ltr">
+    <Header :data="data as any" :all-corners-rounded="true" />
+    <Services :data="data?.services as ServicesType" direction="ltr" />
+    <div class="bg-cream mx-4 pb-6 pt-3 rounded-[39px] mt-10">
+      <LegalSupport
+        :data="landingPage1Data?.legalSupport as LegalSupportType"
+      />
+    </div>
+    <div
+      class="bg-navy mx-4 pb-6 pt-3 rounded-[39px] rounded-bl-none rounded-br-none mt-10"
+    >
+      <Footer :data="landingPage1Data as LandingPage1Response" />
+    </div>
+  </div>
+</template>
