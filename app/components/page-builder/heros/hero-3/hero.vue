@@ -13,8 +13,8 @@ const props = defineProps({
 
 const endpoint = computed(() => {
   return props.dir === "rtl"
-    ? "/api/page-builder/hero-3"
-    : "/api/page-builder/hero-3/en";
+    ? "/api/page-builder/hero-components/hero-3"
+    : "/api/page-builder/hero-components/hero-3/en";
 });
 
 const { data: heroData, pending, error } = useFetch<Hero3Data>(endpoint);

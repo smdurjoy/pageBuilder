@@ -16,8 +16,8 @@ const showVideo = ref(false);
 
 const endpoint = computed(() => {
   return props.dir === "rtl"
-    ? "/api/page-builder/hero-4"
-    : "/api/page-builder/hero-4/en";
+    ? "/api/page-builder/hero-components/hero-4"
+    : "/api/page-builder/hero-components/hero-4/en";
 });
 
 const { data: heroData, pending, error } = useFetch<Hero4Data>(endpoint);
