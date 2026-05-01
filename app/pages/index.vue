@@ -347,6 +347,59 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Videos",
+    items: [
+      {
+        title: "Video 1 Arabic",
+        link: "/page-builder/ar/video-components/video-1",
+      },
+      {
+        title: "Video 1 English",
+        link: "/page-builder/en/video-components/video-1",
+      },
+      {
+        title: "Video 2 Arabic",
+        link: "/page-builder/ar/video-components/video-2",
+      },
+      {
+        title: "Video 2 English",
+        link: "/page-builder/en/video-components/video-2",
+      },
+      {
+        title: "Video 3 Arabic",
+        link: "/page-builder/ar/video-components/video-3",
+      },
+      {
+        title: "Video 3 English",
+        link: "/page-builder/en/video-components/video-3",
+      },
+      {
+        title: "Video 4 Arabic",
+        link: "/page-builder/ar/video-components/video-4",
+      },
+      {
+        title: "Video 4 English",
+        link: "/page-builder/en/video-components/video-4",
+      },
+      {
+        title: "Video 5 Arabic",
+        link: "/page-builder/ar/video-components/video-5",
+      },
+      {
+        title: "Video 5 English",
+        link: "/page-builder/en/video-components/video-5",
+      },
+      {
+        title: "Video 6 Arabic",
+        link: "/page-builder/ar/video-components/video-6",
+      },
+      {
+        title: "Video 6 English",
+        link: "/page-builder/en/video-components/video-6",
+      },
+    ],
+  },
 ];
 </script>
 
