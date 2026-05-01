@@ -233,6 +233,67 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Our Team",
+    items: [
+      {
+        title: "Our Team Arabic",
+        link: "/page-builder/ar/our-team-components/our-team",
+      },
+      {
+        title: "Our Team English",
+        link: "/page-builder/en/our-team-components/our-team",
+      },
+      {
+        title: "Our Team 2 Arabic",
+        link: "/page-builder/ar/our-team-components/our-team-2",
+      },
+      {
+        title: "Our Team 2 English",
+        link: "/page-builder/en/our-team-components/our-team-2",
+      },
+      {
+        title: "Our Team 3 Arabic",
+        link: "/page-builder/ar/our-team-components/our-team-3",
+      },
+      {
+        title: "Our Team 3 English",
+        link: "/page-builder/en/our-team-components/our-team-3",
+      },
+      {
+        title: "Our Team 4 Arabic",
+        link: "/page-builder/ar/our-team-components/our-team-4",
+      },
+      {
+        title: "Our Team 4 English",
+        link: "/page-builder/en/our-team-components/our-team-4",
+      },
+      {
+        title: "Our Team 5 Arabic",
+        link: "/page-builder/ar/our-team-components/our-team-5",
+      },
+      {
+        title: "Our Team 5 English",
+        link: "/page-builder/en/our-team-components/our-team-5",
+      },
+      {
+        title: "Our Team 6 Arabic",
+        link: "/page-builder/ar/our-team-components/our-team-6",
+      },
+      {
+        title: "Our Team 6 English",
+        link: "/page-builder/en/our-team-components/our-team-6",
+      },
+      {
+        title: "Our Team 7 Arabic",
+        link: "/page-builder/ar/our-team-components/our-team-7",
+      },
+      {
+        title: "Our Team 7 English",
+        link: "/page-builder/en/our-team-components/our-team-7",
+      },
+    ],
+  },
 ];
 </script>
 
