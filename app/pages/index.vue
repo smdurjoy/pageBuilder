@@ -294,6 +294,59 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Footers",
+    items: [
+      {
+        title: "Footer 1 Arabic",
+        link: "/page-builder/ar/footers/footer-1",
+      },
+      {
+        title: "Footer 1 English",
+        link: "/page-builder/en/footers/footer-1",
+      },
+      {
+        title: "Footer 2 Arabic",
+        link: "/page-builder/ar/footers/footer-2",
+      },
+      {
+        title: "Footer 2 English",
+        link: "/page-builder/en/footers/footer-2",
+      },
+      {
+        title: "Footer 3 Arabic",
+        link: "/page-builder/ar/footers/footer-3",
+      },
+      {
+        title: "Footer 3 English",
+        link: "/page-builder/en/footers/footer-3",
+      },
+      {
+        title: "Footer 4 Arabic",
+        link: "/page-builder/ar/footers/footer-4",
+      },
+      {
+        title: "Footer 4 English",
+        link: "/page-builder/en/footers/footer-4",
+      },
+      {
+        title: "Footer 5 Arabic",
+        link: "/page-builder/ar/footers/footer-5",
+      },
+      {
+        title: "Footer 5 English",
+        link: "/page-builder/en/footers/footer-5",
+      },
+      {
+        title: "Footer 6 Arabic",
+        link: "/page-builder/ar/footers/footer-6",
+      },
+      {
+        title: "Footer 6 English",
+        link: "/page-builder/en/footers/footer-6",
+      },
+    ],
+  },
 ];
 </script>
 
