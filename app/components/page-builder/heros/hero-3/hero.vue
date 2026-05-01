@@ -85,9 +85,7 @@ function goToPage(index: number) {
     <!-- Centered text content -->
     <div class="pb-hero3-text-area">
       <h1 class="pb-hero3-title">{{ heroData.content.title }}</h1>
-      <p class="pb-hero3-desc">
-        "{{ heroData.content.description }}"
-      </p>
+      <p class="pb-hero3-desc">"{{ heroData.content.description }}"</p>
       <div class="pb-hero3-buttons" :class="{ 'pb-hero3-buttons-rtl': isRtl }">
         <a
           :href="heroData.content.primaryButtonLink"

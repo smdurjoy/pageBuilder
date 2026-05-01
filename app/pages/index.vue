@@ -142,17 +142,103 @@ const pbComponents = [
     title: "Heros",
     items: [
       { title: "Heros Arabic", link: "/page-builder/ar/hero-components/heros" },
-      { title: "Heros English", link: "/page-builder/en/hero-components/heros" },
-      { title: "Heros 2 Arabic", link: "/page-builder/ar/hero-components/heros-2" },
-      { title: "Heros 2 English", link: "/page-builder/en/hero-components/heros-2" },
-      { title: "Heros 3 Arabic", link: "/page-builder/ar/hero-components/heros-3" },
-      { title: "Heros 3 English", link: "/page-builder/en/hero-components/heros-3" },
-      { title: "Heros 4 Arabic", link: "/page-builder/ar/hero-components/heros-4" },
-      { title: "Heros 4 English", link: "/page-builder/en/hero-components/heros-4" },
-      { title: "Heros 5 Arabic", link: "/page-builder/ar/hero-components/heros-5" },
-      { title: "Heros 5 English", link: "/page-builder/en/hero-components/heros-5" },
-      { title: "Heros 6 Arabic", link: "/page-builder/ar/hero-components/heros-6" },
-      { title: "Heros 6 English", link: "/page-builder/en/hero-components/heros-6" },
+      {
+        title: "Heros English",
+        link: "/page-builder/en/hero-components/heros",
+      },
+      {
+        title: "Heros 2 Arabic",
+        link: "/page-builder/ar/hero-components/heros-2",
+      },
+      {
+        title: "Heros 2 English",
+        link: "/page-builder/en/hero-components/heros-2",
+      },
+      {
+        title: "Heros 3 Arabic",
+        link: "/page-builder/ar/hero-components/heros-3",
+      },
+      {
+        title: "Heros 3 English",
+        link: "/page-builder/en/hero-components/heros-3",
+      },
+      {
+        title: "Heros 4 Arabic",
+        link: "/page-builder/ar/hero-components/heros-4",
+      },
+      {
+        title: "Heros 4 English",
+        link: "/page-builder/en/hero-components/heros-4",
+      },
+      {
+        title: "Heros 5 Arabic",
+        link: "/page-builder/ar/hero-components/heros-5",
+      },
+      {
+        title: "Heros 5 English",
+        link: "/page-builder/en/hero-components/heros-5",
+      },
+      {
+        title: "Heros 6 Arabic",
+        link: "/page-builder/ar/hero-components/heros-6",
+      },
+      {
+        title: "Heros 6 English",
+        link: "/page-builder/en/hero-components/heros-6",
+      },
+    ],
+  },
+  {
+    title: "Our Services",
+    items: [
+      {
+        title: "Our Services Arabic",
+        link: "/page-builder/ar/our-services-components/our-services",
+      },
+      {
+        title: "Our Services English",
+        link: "/page-builder/en/our-services-components/our-services",
+      },
+      {
+        title: "Our Services 2 Arabic",
+        link: "/page-builder/ar/our-services-components/our-services-2",
+      },
+      {
+        title: "Our Services 2 English",
+        link: "/page-builder/en/our-services-components/our-services-2",
+      },
+      {
+        title: "Our Services 3 Arabic",
+        link: "/page-builder/ar/our-services-components/our-services-3",
+      },
+      {
+        title: "Our Services 3 English",
+        link: "/page-builder/en/our-services-components/our-services-3",
+      },
+      {
+        title: "Our Services 4 Arabic",
+        link: "/page-builder/ar/our-services-components/our-services-4",
+      },
+      {
+        title: "Our Services 4 English",
+        link: "/page-builder/en/our-services-components/our-services-4",
+      },
+      {
+        title: "Our Services 5 Arabic",
+        link: "/page-builder/ar/our-services-components/our-services-5",
+      },
+      {
+        title: "Our Services 5 English",
+        link: "/page-builder/en/our-services-components/our-services-5",
+      },
+      {
+        title: "Our Services 6 Arabic",
+        link: "/page-builder/ar/our-services-components/our-services-6",
+      },
+      {
+        title: "Our Services 6 English",
+        link: "/page-builder/en/our-services-components/our-services-6",
+      },
     ],
   },
 ];

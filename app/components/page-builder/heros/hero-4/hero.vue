@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { useFetch } from "#app";
 import { computed, ref } from "vue";
-import type { Hero4Data } from "~/types/page-builder/heros-4";
 import { Play, X } from "lucide-vue-next";
+import type { Hero4Data } from "~/types/page-builder/heros-4";
 
 const props = defineProps({
   dir: {
