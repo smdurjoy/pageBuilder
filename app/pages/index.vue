@@ -231,14 +231,6 @@ const pbComponents = [
         title: "Our Services 5 English",
         link: "/page-builder/en/our-services-components/our-services-5",
       },
-      {
-        title: "Our Services 6 Arabic",
-        link: "/page-builder/ar/our-services-components/our-services-6",
-      },
-      {
-        title: "Our Services 6 English",
-        link: "/page-builder/en/our-services-components/our-services-6",
-      },
     ],
   },
 ];
