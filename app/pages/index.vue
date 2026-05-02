@@ -586,6 +586,83 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Contacts",
+    items: [
+      {
+        title: "Contact 1 Arabic",
+        link: "/page-builder/ar/contact-components/contact-1",
+      },
+      {
+        title: "Contact 1 English",
+        link: "/page-builder/en/contact-components/contact-1",
+      },
+      {
+        title: "Contact 2 Arabic",
+        link: "/page-builder/ar/contact-components/contact-2",
+      },
+      {
+        title: "Contact 2 English",
+        link: "/page-builder/en/contact-components/contact-2",
+      },
+      {
+        title: "Contact 3 Arabic",
+        link: "/page-builder/ar/contact-components/contact-3",
+      },
+      {
+        title: "Contact 3 English",
+        link: "/page-builder/en/contact-components/contact-3",
+      },
+      {
+        title: "Contact 4 Arabic",
+        link: "/page-builder/ar/contact-components/contact-4",
+      },
+      {
+        title: "Contact 4 English",
+        link: "/page-builder/en/contact-components/contact-4",
+      },
+      {
+        title: "Contact 5 Arabic",
+        link: "/page-builder/ar/contact-components/contact-5",
+      },
+      {
+        title: "Contact 5 English",
+        link: "/page-builder/en/contact-components/contact-5",
+      },
+      {
+        title: "Contact 6 Arabic",
+        link: "/page-builder/ar/contact-components/contact-6",
+      },
+      {
+        title: "Contact 6 English",
+        link: "/page-builder/en/contact-components/contact-6",
+      },
+      {
+        title: "Contact 7 English",
+        link: "/page-builder/en/contact-components/contact-7",
+      },
+      {
+        title: "Contact 7 Arabic",
+        link: "/page-builder/ar/contact-components/contact-7",
+      },
+      {
+        title: "Contact 8 English",
+        link: "/page-builder/en/contact-components/contact-8",
+      },
+      {
+        title: "Contact 8 Arabic",
+        link: "/page-builder/ar/contact-components/contact-8",
+      },
+      {
+        title: "Contact 9 English",
+        link: "/page-builder/en/contact-components/contact-9",
+      },
+      {
+        title: "Contact 9 Arabic",
+        link: "/page-builder/ar/contact-components/contact-9",
+      },
+    ],
+  },
 ];
 </script>
 
