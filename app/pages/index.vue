@@ -509,6 +509,83 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Abouts",
+    items: [
+      {
+        title: "About 1 Arabic",
+        link: "/page-builder/ar/about-components/about-1",
+      },
+      {
+        title: "About 1 English",
+        link: "/page-builder/en/about-components/about-1",
+      },
+      {
+        title: "About 2 Arabic",
+        link: "/page-builder/ar/about-components/about-2",
+      },
+      {
+        title: "About 2 English",
+        link: "/page-builder/en/about-components/about-2",
+      },
+      {
+        title: "About 3 Arabic",
+        link: "/page-builder/ar/about-components/about-3",
+      },
+      {
+        title: "About 3 English",
+        link: "/page-builder/en/about-components/about-3",
+      },
+      {
+        title: "About 4 Arabic",
+        link: "/page-builder/ar/about-components/about-4",
+      },
+      {
+        title: "About 4 English",
+        link: "/page-builder/en/about-components/about-4",
+      },
+      {
+        title: "About 5 Arabic",
+        link: "/page-builder/ar/about-components/about-5",
+      },
+      {
+        title: "About 5 English",
+        link: "/page-builder/en/about-components/about-5",
+      },
+      {
+        title: "About 6 Arabic",
+        link: "/page-builder/ar/about-components/about-6",
+      },
+      {
+        title: "About 6 English",
+        link: "/page-builder/en/about-components/about-6",
+      },
+      {
+        title: "About 7 English",
+        link: "/page-builder/en/about-components/about-7",
+      },
+      {
+        title: "About 7 Arabic",
+        link: "/page-builder/ar/about-components/about-7",
+      },
+      {
+        title: "About 8 English",
+        link: "/page-builder/en/about-components/about-8",
+      },
+      {
+        title: "About 8 Arabic",
+        link: "/page-builder/ar/about-components/about-8",
+      },
+      {
+        title: "About 9 English",
+        link: "/page-builder/en/about-components/about-9",
+      },
+      {
+        title: "About 9 Arabic",
+        link: "/page-builder/ar/about-components/about-9",
+      },
+    ],
+  },
 ];
 </script>
 
