@@ -398,6 +398,115 @@ const pbComponents = [
         title: "Video 6 English",
         link: "/page-builder/en/video-components/video-6",
       },
+      {
+        title: "Video 7 English",
+        link: "/page-builder/en/video-components/video-7",
+      },
+      {
+        title: "Video 7 Arabic",
+        link: "/page-builder/ar/video-components/video-7",
+      },
+      {
+        title: "Video 8 English",
+        link: "/page-builder/en/video-components/video-8",
+      },
+      {
+        title: "Video 8 Arabic",
+        link: "/page-builder/ar/video-components/video-8",
+      },
+      {
+        title: "Video 9 English",
+        link: "/page-builder/en/video-components/video-9",
+      },
+      {
+        title: "Video 9 Arabic",
+        link: "/page-builder/ar/video-components/video-9",
+      },
+    ],
+  },
+  {
+    title: "Banners",
+    items: [
+      {
+        title: "Banner 1 Arabic",
+        link: "/page-builder/ar/banner-components/banner-1",
+      },
+      {
+        title: "Banner 1 English",
+        link: "/page-builder/en/banner-components/banner-1",
+      },
+      {
+        title: "Banner 2 Arabic",
+        link: "/page-builder/ar/banner-components/banner-2",
+      },
+      {
+        title: "Banner 2 English",
+        link: "/page-builder/en/banner-components/banner-2",
+      },
+      {
+        title: "Banner 3 Arabic",
+        link: "/page-builder/ar/banner-components/banner-3",
+      },
+      {
+        title: "Banner 3 English",
+        link: "/page-builder/en/banner-components/banner-3",
+      },
+      {
+        title: "Banner 4 Arabic",
+        link: "/page-builder/ar/banner-components/banner-4",
+      },
+      {
+        title: "Banner 4 English",
+        link: "/page-builder/en/banner-components/banner-4",
+      },
+      {
+        title: "Banner 5 Arabic",
+        link: "/page-builder/ar/banner-components/banner-5",
+      },
+      {
+        title: "Banner 5 English",
+        link: "/page-builder/en/banner-components/banner-5",
+      },
+      {
+        title: "Banner 6 Arabic",
+        link: "/page-builder/ar/banner-components/banner-6",
+      },
+      {
+        title: "Banner 6 English",
+        link: "/page-builder/en/banner-components/banner-6",
+      },
+      {
+        title: "Banner 7 English",
+        link: "/page-builder/en/banner-components/banner-7",
+      },
+      {
+        title: "Banner 7 Arabic",
+        link: "/page-builder/ar/banner-components/banner-7",
+      },
+      {
+        title: "Banner 8 English",
+        link: "/page-builder/en/banner-components/banner-8",
+      },
+      {
+        title: "Banner 8 Arabic",
+        link: "/page-builder/ar/banner-components/banner-8",
+      },
+      {
+        title: "Banner 9 English",
+        link: "/page-builder/en/banner-components/banner-9",
+      },
+      {
+        title: "Banner 9 Arabic",
+        link: "/page-builder/ar/banner-components/banner-9",
+      },
+      {
+        title: "Banner 10 English",
+        link: "/page-builder/en/banner-components/banner-10",
+      },
+      {
+        title: "Banner 10 Arabic",
+        link: "/page-builder/ar/banner-components/banner-10",
+      },
     ],
   },
 ];
