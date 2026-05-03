@@ -663,6 +663,67 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Testimonials",
+    items: [
+      {
+        title: "Testimonial 1 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-1",
+      },
+      {
+        title: "Testimonial 1 English",
+        link: "/page-builder/en/testimonial-components/testimonial-1",
+      },
+      {
+        title: "Testimonial 2 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-2",
+      },
+      {
+        title: "Testimonial 2 English",
+        link: "/page-builder/en/testimonial-components/testimonial-2",
+      },
+      {
+        title: "Testimonial 3 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-3",
+      },
+      {
+        title: "Testimonial 3 English",
+        link: "/page-builder/en/testimonial-components/testimonial-3",
+      },
+      {
+        title: "Testimonial 4 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-4",
+      },
+      {
+        title: "Testimonial 4 English",
+        link: "/page-builder/en/testimonial-components/testimonial-4",
+      },
+      {
+        title: "Testimonial 5 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-5",
+      },
+      {
+        title: "Testimonial 5 English",
+        link: "/page-builder/en/testimonial-components/testimonial-5",
+      },
+      {
+        title: "Testimonial 6 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-6",
+      },
+      {
+        title: "Testimonial 6 English",
+        link: "/page-builder/en/testimonial-components/testimonial-6",
+      },
+      {
+        title: "Testimonial 7 English",
+        link: "/page-builder/en/testimonial-components/testimonial-7",
+      },
+      {
+        title: "Testimonial 7 Arabic",
+        link: "/page-builder/ar/testimonial-components/testimonial-7",
+      },
+    ],
+  },
 ];
 </script>
 
