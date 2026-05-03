@@ -724,6 +724,59 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Slides",
+    items: [
+      {
+        title: "Slide 1 Arabic",
+        link: "/page-builder/ar/slide-components/slide-1",
+      },
+      {
+        title: "Slide 1 English",
+        link: "/page-builder/en/slide-components/slide-1",
+      },
+      {
+        title: "Slide 2 Arabic",
+        link: "/page-builder/ar/slide-components/slide-2",
+      },
+      {
+        title: "Slide 2 English",
+        link: "/page-builder/en/slide-components/slide-2",
+      },
+      {
+        title: "Slide 3 Arabic",
+        link: "/page-builder/ar/slide-components/slide-3",
+      },
+      {
+        title: "Slide 3 English",
+        link: "/page-builder/en/slide-components/slide-3",
+      },
+      {
+        title: "Slide 4 Arabic",
+        link: "/page-builder/ar/slide-components/slide-4",
+      },
+      {
+        title: "Slide 4 English",
+        link: "/page-builder/en/slide-components/slide-4",
+      },
+      {
+        title: "Slide 5 Arabic",
+        link: "/page-builder/ar/slide-components/slide-5",
+      },
+      {
+        title: "Slide 5 English",
+        link: "/page-builder/en/slide-components/slide-5",
+      },
+      {
+        title: "Slide 6 Arabic",
+        link: "/page-builder/ar/slide-components/slide-6",
+      },
+      {
+        title: "Slide 6 English",
+        link: "/page-builder/en/slide-components/slide-6",
+      },
+    ],
+  },
 ];
 </script>
 
