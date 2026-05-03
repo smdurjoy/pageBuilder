@@ -835,6 +835,104 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Booking",
+    items: [
+      {
+        title: "Booking 1 Arabic",
+        link: "/page-builder/ar/booking-components/booking-1",
+      },
+      {
+        title: "Booking 1 English",
+        link: "/page-builder/en/booking-components/booking-1",
+      },
+    ],
+  },
+  {
+    title: "Statistics",
+    items: [
+      {
+        title: "Statistics 1 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-1",
+      },
+      {
+        title: "Statistics 1 English",
+        link: "/page-builder/en/statistics-components/statistics-1",
+      },
+      {
+        title: "Statistics 2 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-2",
+      },
+      {
+        title: "Statistics 2 English",
+        link: "/page-builder/en/statistics-components/statistics-2",
+      },
+      {
+        title: "Statistics 3 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-3",
+      },
+      {
+        title: "Statistics 3 English",
+        link: "/page-builder/en/statistics-components/statistics-3",
+      },
+      {
+        title: "Statistics 4 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-4",
+      },
+      {
+        title: "Statistics 4 English",
+        link: "/page-builder/en/statistics-components/statistics-4",
+      },
+      {
+        title: "Statistics 5 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-5",
+      },
+      {
+        title: "Statistics 5 English",
+        link: "/page-builder/en/statistics-components/statistics-5",
+      },
+      {
+        title: "Statistics 6 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-6",
+      },
+      {
+        title: "Statistics 6 English",
+        link: "/page-builder/en/statistics-components/statistics-6",
+      },
+      {
+        title: "Statistics 7 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-7",
+      },
+      {
+        title: "Statistics 7 English",
+        link: "/page-builder/en/statistics-components/statistics-7",
+      },
+      {
+        title: "Statistics 8 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-8",
+      },
+      {
+        title: "Statistics 8 English",
+        link: "/page-builder/en/statistics-components/statistics-8",
+      },
+      {
+        title: "Statistics 9 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-9",
+      },
+      {
+        title: "Statistics 9 English",
+        link: "/page-builder/en/statistics-components/statistics-9",
+      },
+      {
+        title: "Statistics 10 Arabic",
+        link: "/page-builder/ar/statistics-components/statistics-10",
+      },
+      {
+        title: "Statistics 10 English",
+        link: "/page-builder/en/statistics-components/statistics-10",
+      },
+    ],
+  },
 ];
 </script>
 
