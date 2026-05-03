@@ -777,6 +777,64 @@ const pbComponents = [
       },
     ],
   },
+  {
+    title: "Socials",
+    items: [
+      {
+        title: "Social 1 Arabic",
+        link: "/page-builder/ar/social-components/social-1",
+      },
+      {
+        title: "Social 1 English",
+        link: "/page-builder/en/social-components/social-1",
+      },
+      {
+        title: "Social 2 Arabic",
+        link: "/page-builder/ar/social-components/social-2",
+      },
+      {
+        title: "Social 2 English",
+        link: "/page-builder/en/social-components/social-2",
+      },
+      {
+        title: "Social 3 Arabic",
+        link: "/page-builder/ar/social-components/social-3",
+      },
+      {
+        title: "Social 3 English",
+        link: "/page-builder/en/social-components/social-3",
+      },
+      {
+        title: "Social 4 Arabic",
+        link: "/page-builder/ar/social-components/social-4",
+      },
+      {
+        title: "Social 4 English",
+        link: "/page-builder/en/social-components/social-4",
+      },
+    ],
+  },
+  {
+    title: "Showcase",
+    items: [
+      {
+        title: "Showcase 1 Arabic",
+        link: "/page-builder/ar/showcase-components/showcase-1",
+      },
+      {
+        title: "Showcase 1 English",
+        link: "/page-builder/en/showcase-components/showcase-1",
+      },
+      {
+        title: "Showcase 2 Arabic",
+        link: "/page-builder/ar/showcase-components/showcase-2",
+      },
+      {
+        title: "Showcase 2 English",
+        link: "/page-builder/en/showcase-components/showcase-2",
+      },
+    ],
+  },
 ];
 </script>
 
