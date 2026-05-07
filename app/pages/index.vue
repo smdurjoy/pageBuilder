@@ -136,6 +136,14 @@ const pbComponents = [
     items: [
       { title: "Headers Arabic", link: "/page-builder/ar/headers" },
       { title: "Headers English", link: "/page-builder/en/headers" },
+      {
+        title: "Headers Fixed Arabic",
+        link: "/page-builder/ar/headers-components/headers-fixed",
+      },
+      {
+        title: "Headers Fixed English",
+        link: "/page-builder/en/headers-components/headers-fixed",
+      },
     ],
   },
   {

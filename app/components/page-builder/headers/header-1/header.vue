@@ -9,6 +9,10 @@ const props = defineProps({
     default: "rtl",
     validator: (value: string) => ["rtl", "ltr"].includes(value),
   },
+  isFixed: {
+    type: Boolean,
+    default: false,
+  },
 });
 
 // Based on dir, decide which api to call
@@ -29,7 +33,13 @@ const toggleMobileMenu = () => {
 </script>
 
 <template>
-  <header class="w-full bg-white py-4 px-4 md:px-8" :dir="props.dir">
+  <header
+    :class="[
+      'w-full bg-white py-4 px-4 md:px-8 transition-all duration-300',
+      isFixed ? 'sticky top-0 left-0 right-0 z-[100] shadow-md' : 'relative',
+    ]"
+    :dir="props.dir"
+  >
     <div
       v-if="!pending && !error && headerData"
       class="max-w-7xl mx-auto flex items-center justify-between"

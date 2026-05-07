@@ -9,6 +9,10 @@ const props = defineProps({
     default: "rtl",
     validator: (value: string) => ["rtl", "ltr"].includes(value),
   },
+  isFixed: {
+    type: Boolean,
+    default: false,
+  },
 });
 
 const endpoint = computed(() => {
@@ -28,7 +32,10 @@ const toggleMenu = () => {
 
 <template>
   <header
-    class="w-full flex flex-col md:shadow-none shadow-pb-header"
+    :class="[
+      'w-full flex flex-col transition-all duration-300 bg-white',
+      isFixed ? 'sticky top-0 left-0 right-0 z-[100] md:shadow-md' : 'relative md:shadow-none shadow-pb-header',
+    ]"
     :dir="props.dir"
   >
     <div v-if="!pending && !error && headerData" class="w-full">
